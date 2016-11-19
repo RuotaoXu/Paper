@@ -1,0 +1,90 @@
+%0 Journal Article
+%T A comparison of loop closing techniques in monocular SLAM
+%A Williams, Brian
+%A Cummins, Mark
+%A Neira, José
+%A Newman, Paul
+%A Reid, Ian
+%A Tardós, Juan
+%J Robotics & Autonomous Systems
+%V 57
+%N 12
+%P 1188-1197
+%D 2009
+%Z ??? 
+%! ??? 
+%> D:\paper\SLAM\09-RAS-A comparison of loop closing techniques in monocular.pdf 
+ 
+%0 Conference Proceedings
+%T Elastic Fragments for Dense Scene Reconstruction
+%A Zhou, Qian Yi
+%A Miller, Stephen
+%A Koltun, Vladlen
+%B IEEE International Conference on Computer Vision
+%P 473-480
+%D 2013
+%Z ??? 
+%! ??? 
+%> D:\paper\SLAM\13-ICCV-Elastic Fragments for Dense Scene Reconstruction.pdf 
+ 
+%0 Conference Proceedings
+%T SUN3D: A Database of Big Spaces Reconstructed Using SfM and Object Labels
+%A Xiao, Jianxiong
+%A Owens, A.
+%A Torralba, A.
+%B IEEE International Conference on Computer Vision
+%P 1625-1632
+%D 2013
+%Z ??? 
+%! ??? 
+%> D:\paper\SLAM\13-ICCV-SUN3D A Database of Big Spaces Reconstructed using SfM and Object Labels.pdf 
+ 
+%0 Conference Proceedings
+%T Simultaneous Localization and Calibration: Self-Calibration of Consumer Depth Cameras
+%A Zhou, Qian Yi
+%A Koltun, V.
+%B Computer Vision and Pattern Recognition
+%P 454-460
+%D 2014
+%Z ??? 
+%! ??? 
+%> D:\paper\SLAM\14-CVPR-Simultaneous Localization and Calibration Self-Calibration of Consumer Depth Cameras.pdf 
+ 
+%0 Conference Proceedings
+%T Robust reconstruction of indoor scenes
+%A Choi, Sungjoon
+%A Zhou, Qian Yi
+%A Koltun, Vladlen
+%B Computer Vision and Pattern Recognition
+%P 5556-5565
+%D 2015
+%Z ??? 
+%! ??? 
+%> D:\paper\SLAM\15-CVPR-Robust Reconstruction of Indoor Scenes.pdf 
+ 
+%0 Journal Article
+%T ElasticFusion: Dense SLAM without a pose graph
+%A Whelan, Thomas
+%A Leutenegger, Stefan
+%A Salas-Moreno, Renato F
+%A Glocker, Ben
+%A Davison, Andrew J
+%J Proc. Robotics: Science and Systems, Rome, Italy
+%D 2015
+%Z ??? 
+%! ??? 
+%> D:\paper\SLAM\15-RSS-ElasticFusion Dense SLAM Without A Pose Graph.pdf 
+ 
+%0 Conference Proceedings
+%T Online Reconstruction of Indoor Scenes From RGB-D Streams
+%A Wang, Hao
+%A Wang, Jun
+%A Liang, Wang
+%B Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+%P 3271-3279
+%D 2016
+%Z ??? 
+%! ??? 
+%> D:\paper\SLAM\16-CVPR-Online Reconstruction of Indoor Scenes from RGB-D Streams.pdf 
+ 
+
